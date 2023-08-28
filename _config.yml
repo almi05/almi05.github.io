@@ -5,3 +5,4 @@ permalink: pretty
 plugins:
   - jekyll-feed
 url: https://git.almi.eu.org
+timezone: Europe/Rome
