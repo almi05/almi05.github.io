@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 title: Il sito git di almi05
 description: Un sito assolutamente inutile che occupa spazio offerto gratuitamente da GitHub
 permalink: pretty
+plugins:
+  - jekyll-feed
+url: https://git.almi.eu.org
