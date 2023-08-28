@@ -1,6 +1,5 @@
 ---
 title: "Wow, l'RSS funziona!"
-layout: post
 date: 2023-08-28 20:25 +0200
 ---
 Finalmente la prima cosa che funziona su questo sito.
